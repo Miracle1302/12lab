@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "day": 1,
+            "precipitation": 20,
+            "temperature": 5
+        },
+        {
+            "day": 2,
+            "precipitation": 5,
+            "temperature": -1
+        },
+        {
+            "day": 1,
+            "precipitation": 35,
+            "temperature": 15
+        }
+    ]
+}
